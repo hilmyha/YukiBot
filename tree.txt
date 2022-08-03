@@ -4,7 +4,6 @@ D:\SMT4\SISTEM CERDAS\USERBOT
 |   app.py
 |   Procfile
 |   requirements.txt
-|   tree.txt
 |   YUKIBOT.session
 |   
 +---handlers
