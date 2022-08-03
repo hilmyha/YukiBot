@@ -4,8 +4,6 @@ import modules.start, modules.ping, modules.timeNow, modules.talkback, modules.f
 bot = handlers.client.bot
 TOKEN = handlers.client.TOKEN
 
-
-
 with bot as yuki:
   yuki.add_event_handler(modules.start.start)
 
